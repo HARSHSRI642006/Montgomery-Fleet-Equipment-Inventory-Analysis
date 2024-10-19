@@ -10,7 +10,8 @@ Analyze Equipment Usage: Identify usage patterns and determine the efficiency of
 Optimize Inventory: Ensure optimal stock levels to meet operational needs without overstocking.
 Monitor Maintenance Schedules: Track and manage maintenance schedules to ensure timely servicing of equipment.
 
-**Key Features of the Analysis:**
+**Key Features of the Analysis:**:
+
 **Part 1: Equipment Usage and Inventory Levels**:
 Detailed Equipment Log: A comprehensive list of all fleet equipment, tracking key details like model, usage, and operational status.
 Usage Efficiency: Calculated and analyzed how efficiently equipment is being used across different operational periods.
